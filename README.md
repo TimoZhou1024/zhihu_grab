@@ -46,7 +46,7 @@ python main.py
    - 填入知乎Cookie（可选，但建议填写以获取完整内容）
    - 选择保存位置
    - 点击"保存为markdown文档"按钮
-
+![主界面](image/layout.png)
 ## 项目结构
 ```
 root
