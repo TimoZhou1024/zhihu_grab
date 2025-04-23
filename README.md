@@ -25,7 +25,7 @@
 
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/yourusername/zhihu-grab.git
+git clone https://github.com/TimoZhou1024/zhihu_grab.git
 cd zhihu-grab
 ```
 
